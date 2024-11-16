@@ -1,5 +1,4 @@
-# app-dev
-# Favorite Series/Movie
+# My Favorite Series
 
 ## One Piece
 One Piece is an epic adventure series created by Eiichiro Oda. It follows the journey of Monkey D. Luffy and his crew, the Straw Hat Pirates, as they search for the ultimate treasure known as the One Piece.
@@ -15,4 +14,4 @@ One Piece is an epic adventure series created by Eiichiro Oda. It follows the jo
 3. Vinsmoke Sanji
 
 ### Quote
-"IF you are hungry, eat." – Monkey D. Luffy
+"If you are hungry, eat." – Monkey D. Luffy
